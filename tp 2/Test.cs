@@ -8,14 +8,14 @@ namespace TP2
         {
             //******* exercice 1 ********
             // Partie A
-            //A();
+            A();
 
             // Partie B et C
             //BC();
 
             //******* exercice 2 ********
             // Partie D
-            D();
+            //D();
 
 
         }
